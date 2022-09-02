@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.b9540524.css",
-    "main.js": "/react-gh-pages/static/js/main.5735b595.js",
-    "static/js/787.45693016.chunk.js": "/react-gh-pages/static/js/787.45693016.chunk.js",
-    "static/media/service.jpg": "/react-gh-pages/static/media/service.a4686d954f941ba8f3bb.jpg",
-    "static/media/second.jpg": "/react-gh-pages/static/media/second.d4b34724537c674266d6.jpg",
-    "static/media/first.jpg": "/react-gh-pages/static/media/first.f052f15d8d0936f0af91.jpg",
-    "static/media/third.jpg": "/react-gh-pages/static/media/third.9f3fc3ec89bff9fa738a.jpg",
-    "static/media/train.jpg": "/react-gh-pages/static/media/train.c29e882f5d29191bf800.jpg",
-    "static/media/banner.jpg": "/react-gh-pages/static/media/banner.115b28a739e2659dc197.jpg",
-    "static/media/flagandmedal.jpeg": "/react-gh-pages/static/media/flagandmedal.d014cf087da4e6447272.jpeg",
-    "static/media/address.jpg": "/react-gh-pages/static/media/address.b971b7e1ef066725edc5.jpg",
-    "static/media/beautysplit.jpg": "/react-gh-pages/static/media/beautysplit.229138779f822ada46ea.jpg",
-    "static/media/babysplit.jpg": "/react-gh-pages/static/media/babysplit.3ce82e716adb61fc836e.jpg",
-    "static/media/gym.jpg": "/react-gh-pages/static/media/gym.364c899d330f76a7c022.jpg",
-    "static/media/standingmedal.jpeg": "/react-gh-pages/static/media/standingmedal.3d0739033e8bbfc70079.jpeg",
-    "static/media/trophie.jpg": "/react-gh-pages/static/media/trophie.52b9baeddf51ccc5dcd9.jpg",
-    "static/media/mylogo.webp": "/react-gh-pages/static/media/mylogo.4342fd39414d2923620f.webp",
-    "static/media/avatar.jpg": "/react-gh-pages/static/media/avatar.52438a71d635125774bd.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.b9540524.css.map": "/react-gh-pages/static/css/main.b9540524.css.map",
-    "main.5735b595.js.map": "/react-gh-pages/static/js/main.5735b595.js.map",
-    "787.45693016.chunk.js.map": "/react-gh-pages/static/js/787.45693016.chunk.js.map"
+    "main.css": "/solgym/static/css/main.b9540524.css",
+    "main.js": "/solgym/static/js/main.041eaf6b.js",
+    "static/js/787.45693016.chunk.js": "/solgym/static/js/787.45693016.chunk.js",
+    "static/media/service.jpg": "/solgym/static/media/service.a4686d954f941ba8f3bb.jpg",
+    "static/media/second.jpg": "/solgym/static/media/second.d4b34724537c674266d6.jpg",
+    "static/media/first.jpg": "/solgym/static/media/first.f052f15d8d0936f0af91.jpg",
+    "static/media/third.jpg": "/solgym/static/media/third.9f3fc3ec89bff9fa738a.jpg",
+    "static/media/train.jpg": "/solgym/static/media/train.c29e882f5d29191bf800.jpg",
+    "static/media/banner.jpg": "/solgym/static/media/banner.115b28a739e2659dc197.jpg",
+    "static/media/flagandmedal.jpeg": "/solgym/static/media/flagandmedal.d014cf087da4e6447272.jpeg",
+    "static/media/address.jpg": "/solgym/static/media/address.b971b7e1ef066725edc5.jpg",
+    "static/media/beautysplit.jpg": "/solgym/static/media/beautysplit.229138779f822ada46ea.jpg",
+    "static/media/babysplit.jpg": "/solgym/static/media/babysplit.3ce82e716adb61fc836e.jpg",
+    "static/media/gym.jpg": "/solgym/static/media/gym.364c899d330f76a7c022.jpg",
+    "static/media/standingmedal.jpeg": "/solgym/static/media/standingmedal.3d0739033e8bbfc70079.jpeg",
+    "static/media/trophie.jpg": "/solgym/static/media/trophie.52b9baeddf51ccc5dcd9.jpg",
+    "static/media/mylogo.webp": "/solgym/static/media/mylogo.4342fd39414d2923620f.webp",
+    "static/media/avatar.jpg": "/solgym/static/media/avatar.52438a71d635125774bd.jpg",
+    "index.html": "/solgym/index.html",
+    "main.b9540524.css.map": "/solgym/static/css/main.b9540524.css.map",
+    "main.041eaf6b.js.map": "/solgym/static/js/main.041eaf6b.js.map",
+    "787.45693016.chunk.js.map": "/solgym/static/js/787.45693016.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9540524.css",
-    "static/js/main.5735b595.js"
+    "static/js/main.041eaf6b.js"
   ]
 }
