@@ -18,18 +18,18 @@ const NavBar =()=>{
   <Navbar.Toggle />
   <Navbar.Collapse>
     <Navbar.Link
-      href="/navbars"
+      
       active={true}
     >
       <Link to='/'>Home</Link>
     </Navbar.Link>
-    <Navbar.Link href="/navbars">
+    <Navbar.Link >
       <Link to='/about' >Our Story</Link>
     </Navbar.Link>
-    <Navbar.Link href="/navbars">
+    <Navbar.Link>
      <Link to='/service'> Our Services</Link>
     </Navbar.Link>
-    <Navbar.Link href="/navbars">
+    <Navbar.Link>
       <Link to ='/service' >Contact us</Link>
     </Navbar.Link>
   </Navbar.Collapse>
