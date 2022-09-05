@@ -1,8 +1,6 @@
 import first from '../asset/first.jpg';
-import second from '../asset/second.jpg';
-import third from '../asset/third.jpg';
 import { Carousel } from 'flowbite-react';
-import { Dropdown } from 'flowbite-react';
+
 const CarauselPage =()=>{
   return (
     <>

@@ -5,7 +5,7 @@ const Story=()=>{
     <>
      <div className="w-full pt-10 text-gray-700 mt-10 grid grid-cols-2 gap-4">
         <div className='mt-24'>
-            <img src={split}/>
+            <img alt="test alt" src={split}/>
         </div>
         <div className='m-10'>
             <h1 className='text-left mt-20 text-xl' style={{fontFamily: 'Monospace'}}>HERE IS EVERYTHING YOU WANT TO KNOW ABOUT US</h1>

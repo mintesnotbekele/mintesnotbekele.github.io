@@ -13,7 +13,7 @@ const Testimonial=()=>{
              </div>
              <div className="grid grid-cols-6 gap-2 mt-5">
                <div className='col-span-2'>
-                <img className='rounded-full h-50' src={avatar} alt="testimony image"/>
+                <img className='rounded-full h-50' src={avatar} alt="testimony "/>
                </div>
                <div className='col-span-4 mt-5 '>Mintesnot Bekele</div>
              </div>
@@ -27,7 +27,7 @@ const Testimonial=()=>{
              </div>
              <div className="grid grid-cols-6 gap-2 mt-5">
                <div className='col-span-2'>
-                <img className='rounded-full' src={avatar} alt="testimony image"/>
+                <img className='rounded-full' src={avatar} alt="testimony"/>
                </div>
                <div className='col-span-4 mt-5 '>Kalkidan Behailu</div>
              </div>
@@ -41,7 +41,7 @@ const Testimonial=()=>{
              </div>
              <div className="grid grid-cols-6 gap-2 mt-5">
                <div className='col-span-2'>
-                <img className='rounded-full' src={avatar} alt="testimony image"/>
+                <img className='rounded-full' src={avatar} alt="testimony"/>
                </div>
                <div className='col-span-2 mt-5 '>Mintesnot Bekele</div>
              </div>

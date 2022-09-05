@@ -8,19 +8,19 @@ const Package =()=>{
   <div className="grid grid-cols-3 gap-3">
   <div className="text-center text-2xl  " >
     <h1 className='py-10'>Aerobics</h1>
-    <img className='m-auto' src={medal}/>
+    <img alt='medal' className='m-auto' src={medal}/>
   </div>
   <div className="text-center text-2xl h-24">
     <h1 className='py-10'>
         Gym training
     </h1>
-    <img className='m-auto' src={standing}/>
+    <img alt='standing' className='m-auto' src={standing}/>
   </div>
   <div className="text-center text-2xl h-24">
     <h1 className='py-10'>
         Taek-wondo 
     </h1>
-    <img className='m-auto' src={gym}/>
+    <img alt='gym ' className='m-auto' src={gym}/>
   </div>
   
 </div>

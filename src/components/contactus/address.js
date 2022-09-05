@@ -4,7 +4,7 @@ const Address=()=>{
     <>
     <div className="grid grid-cols-2 gap-4">
         <div className='w-1/2 m-auto'>
-         <img src={addressimage} alt="contact image"/>
+         <img src={addressimage} alt="contact"/>
         </div>
         <div className='w-1/2 m-auto'>
         <div>Address: France embassy around Omedla st</div>
