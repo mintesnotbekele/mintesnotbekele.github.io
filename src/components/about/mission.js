@@ -13,7 +13,7 @@ const Mission=()=>{
         </div>
         <div className='grid grid-cols-2 gap-2 '>
             <div ><img alt='split' src={split}/></div>
-            <div><img src={gym}/></div>
+            <div><img alt="alt gym image" src={gym}/></div>
         
         </div>
       </div>
