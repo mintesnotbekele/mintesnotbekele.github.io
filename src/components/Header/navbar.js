@@ -30,7 +30,7 @@ const NavBar =()=>{
      <Link to='/service'> Our Services</Link>
     </Navbar.Link>
     <Navbar.Link>
-      <Link to ='/service' >Contact us</Link>
+      <Link to ='/contact' >Contact us</Link>
     </Navbar.Link>
   </Navbar.Collapse>
 </Navbar>

@@ -12,7 +12,7 @@ const Mission=()=>{
                 and to instill in the lives of people everywhere the value of health and fitness</p>
         </div>
         <div className='grid grid-cols-2 gap-2 '>
-            <div ><img src={split}/></div>
+            <div ><img alt='split' src={split}/></div>
             <div><img src={gym}/></div>
         
         </div>
