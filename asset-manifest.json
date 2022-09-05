@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/solgym/static/css/main.b9540524.css",
-    "main.js": "/solgym/static/js/main.773fcb5b.js",
+    "main.js": "/solgym/static/js/main.4b07f420.js",
     "static/js/787.45693016.chunk.js": "/solgym/static/js/787.45693016.chunk.js",
     "static/media/service.jpg": "/solgym/static/media/service.a4686d954f941ba8f3bb.jpg",
     "static/media/second.jpg": "/solgym/static/media/second.d4b34724537c674266d6.jpg",
@@ -20,11 +20,11 @@
     "static/media/avatar.jpg": "/solgym/static/media/avatar.52438a71d635125774bd.jpg",
     "index.html": "/solgym/index.html",
     "main.b9540524.css.map": "/solgym/static/css/main.b9540524.css.map",
-    "main.773fcb5b.js.map": "/solgym/static/js/main.773fcb5b.js.map",
+    "main.4b07f420.js.map": "/solgym/static/js/main.4b07f420.js.map",
     "787.45693016.chunk.js.map": "/solgym/static/js/787.45693016.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9540524.css",
-    "static/js/main.773fcb5b.js"
+    "static/js/main.4b07f420.js"
   ]
 }
