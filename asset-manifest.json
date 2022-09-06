@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9540524.css",
-    "main.js": "/static/js/main.a6770243.js",
-    "static/js/787.45693016.chunk.js": "/static/js/787.45693016.chunk.js",
-    "static/media/service.jpg": "/static/media/service.a4686d954f941ba8f3bb.jpg",
-    "static/media/first.jpg": "/static/media/first.f052f15d8d0936f0af91.jpg",
-    "static/media/train.jpg": "/static/media/train.c29e882f5d29191bf800.jpg",
-    "static/media/banner.jpg": "/static/media/banner.115b28a739e2659dc197.jpg",
-    "static/media/flagandmedal.jpeg": "/static/media/flagandmedal.d014cf087da4e6447272.jpeg",
-    "static/media/address.jpg": "/static/media/address.b971b7e1ef066725edc5.jpg",
-    "static/media/beautysplit.jpg": "/static/media/beautysplit.229138779f822ada46ea.jpg",
-    "static/media/babysplit.jpg": "/static/media/babysplit.3ce82e716adb61fc836e.jpg",
-    "static/media/gym.jpg": "/static/media/gym.364c899d330f76a7c022.jpg",
-    "static/media/standingmedal.jpeg": "/static/media/standingmedal.3d0739033e8bbfc70079.jpeg",
-    "static/media/trophie.jpg": "/static/media/trophie.52b9baeddf51ccc5dcd9.jpg",
-    "static/media/mylogo.webp": "/static/media/mylogo.4342fd39414d2923620f.webp",
-    "static/media/avatar.jpg": "/static/media/avatar.52438a71d635125774bd.jpg",
-    "index.html": "/index.html",
-    "main.b9540524.css.map": "/static/css/main.b9540524.css.map",
-    "main.a6770243.js.map": "/static/js/main.a6770243.js.map",
-    "787.45693016.chunk.js.map": "/static/js/787.45693016.chunk.js.map"
+    "main.css": "/about/static/css/main.b9540524.css",
+    "main.js": "/about/static/js/main.1b65f021.js",
+    "static/js/787.45693016.chunk.js": "/about/static/js/787.45693016.chunk.js",
+    "static/media/service.jpg": "/about/static/media/service.a4686d954f941ba8f3bb.jpg",
+    "static/media/first.jpg": "/about/static/media/first.f052f15d8d0936f0af91.jpg",
+    "static/media/train.jpg": "/about/static/media/train.c29e882f5d29191bf800.jpg",
+    "static/media/banner.jpg": "/about/static/media/banner.115b28a739e2659dc197.jpg",
+    "static/media/flagandmedal.jpeg": "/about/static/media/flagandmedal.d014cf087da4e6447272.jpeg",
+    "static/media/address.jpg": "/about/static/media/address.b971b7e1ef066725edc5.jpg",
+    "static/media/beautysplit.jpg": "/about/static/media/beautysplit.229138779f822ada46ea.jpg",
+    "static/media/babysplit.jpg": "/about/static/media/babysplit.3ce82e716adb61fc836e.jpg",
+    "static/media/gym.jpg": "/about/static/media/gym.364c899d330f76a7c022.jpg",
+    "static/media/standingmedal.jpeg": "/about/static/media/standingmedal.3d0739033e8bbfc70079.jpeg",
+    "static/media/trophie.jpg": "/about/static/media/trophie.52b9baeddf51ccc5dcd9.jpg",
+    "static/media/mylogo.webp": "/about/static/media/mylogo.4342fd39414d2923620f.webp",
+    "static/media/avatar.jpg": "/about/static/media/avatar.52438a71d635125774bd.jpg",
+    "index.html": "/about/index.html",
+    "main.b9540524.css.map": "/about/static/css/main.b9540524.css.map",
+    "main.1b65f021.js.map": "/about/static/js/main.1b65f021.js.map",
+    "787.45693016.chunk.js.map": "/about/static/js/787.45693016.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9540524.css",
-    "static/js/main.a6770243.js"
+    "static/js/main.1b65f021.js"
   ]
 }
